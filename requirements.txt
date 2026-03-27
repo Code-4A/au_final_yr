@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+ultralytics
+python-multipart
+websockets
+gTTS
